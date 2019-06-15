@@ -1,0 +1,12 @@
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\bin\Debug\TimerCryptograph.exe.config
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\bin\Debug\TimerCryptograph.exe
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\bin\Debug\TimerCryptograph.pdb
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\bin\Debug\TimerCryptograph.xml
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\obj\Debug\TimerCryptograph.vbprojAssemblyReference.cache
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\obj\Debug\TimerCryptograph.Form1.resources
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\obj\Debug\TimerCryptograph.Resources.resources
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\obj\Debug\TimerCryptograph.vbproj.GenerateResource.cache
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\obj\Debug\TimerCryptograph.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\obj\Debug\TimerCryptograph.exe
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\obj\Debug\TimerCryptograph.xml
+C:\Users\Martin\source\repos\TimerCryptograph\TimerCryptograph\obj\Debug\TimerCryptograph.pdb
