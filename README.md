@@ -5,6 +5,8 @@ A cryptographer without using password, that I suddenly think of
 
 Copyright 2019 (c) Martin C.
 
+[![GitHub license](https://img.shields.io/github/license/mcmartin25/TimerCryptograph.svg)](https://github.com/mcmartin25/TimerCryptograph/blob/master/LICENSE)
+
 # How do I have this idea?
 I get this idea from one of my dream, which showed the approximate interface and functions. 
 
